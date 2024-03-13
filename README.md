@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Misganaw Berihun!
+# 👋 Hello, I'm Misganaw Mekonnen!
 
 Passionate AI Engineer | Enthusiastic Learner 
 
