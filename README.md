@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Misganaw Mekonnen!
 
-Passionate AI Engineer | Enthusiastic Learner 
+Passionate Generative AI Engineer | Enthusiastic Learner 
 
 📧 msganawberihun10@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/misganaw-mekonnen-5214961a6)
 
 ## About Me
 
-I am a junior level AI Engineer based in Ethiopia. With a strong background in programming, datastructures and algorithms. I love to explore new technologies and apply them to solve real-world problems.
+I am a junior Generative AI Engineer based in Ethiopia. With a strong background in programming, datastructures and algorithms. I love to explore new technologies and apply them to solve real-world problems.
 
 ## 🚀 Projects
 
