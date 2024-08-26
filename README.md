@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Misganaw Mekonnen!
 
-Passionate Generative AI Engineer | Enthusiastic 
+Passionate Generative AI Engineer | Full-Stack Developer 
 
 ## About Me
 
