@@ -8,7 +8,6 @@ I am a junior Generative AI Engineer based in Ethiopia. With a strong background
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/misganaw-mekonnen-5214961a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misganaw-mekonnen-5214961a6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/misganaw-berihun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="misganaw-berihun" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/msganawberihun10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="msganawberihun10" height="30" width="40" /></a>
 </p>
