@@ -1,9 +1,6 @@
 # 👋 Hello, I'm Misganaw Mekonnen!
 
-Passionate Generative AI Engineer | Enthusiastic Learner 
-
-📧 msganawberihun10@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/misganaw-mekonnen-5214961a6)
+Passionate Generative AI Engineer | Enthusiastic 
 
 ## About Me
 
